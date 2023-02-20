@@ -1,0 +1,1218 @@
+{
+  "INFO": {
+    "failedjobs": 0,
+    "size": 75,
+    "Time tabular output done": "20230220032739",
+    "Time plotting done": "20230220032755"
+  },
+  "CSV_FILE": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/prediction_results.txt",
+  "MATURE_FILE": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/processed_entries.fasta",
+  "GFF_FILE": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output.gff3",
+  "ZIP_FILE": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_all_results.zip",
+  "SEQUENCES": {
+    "AT1G47485.1__CEP1_": {
+      "Name": "AT1G47485.1__CEP1_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G47485.1__CEP1__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G47485.1__CEP1__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G47485.1__CEP1__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0001,
+        0.9999
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 28 and 29. Probability 0.969763"
+    },
+    "AT1G59835.1__CEP2_": {
+      "Name": "AT1G59835.1__CEP2_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G59835.1__CEP2__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G59835.1__CEP2__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G59835.1__CEP2__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0005,
+        0.9995
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 27 and 28. Probability 0.428043"
+    },
+    "AT2G23440.1__CEP3_": {
+      "Name": "AT2G23440.1__CEP3_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G23440.1__CEP3__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G23440.1__CEP3__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G23440.1__CEP3__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 24 and 25. Probability 0.974755"
+    },
+    "AT2G35612.1__CEP4_": {
+      "Name": "AT2G35612.1__CEP4_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G35612.1__CEP4__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G35612.1__CEP4__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G35612.1__CEP4__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 30 and 31. Probability 0.967424"
+    },
+    "AT5G66815.1__CEP5_": {
+      "Name": "AT5G66815.1__CEP5_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G66815.1__CEP5__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G66815.1__CEP5__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G66815.1__CEP5__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 30 and 31. Probability 0.975386"
+    },
+    "AT5G66815.1__CEP6_": {
+      "Name": "AT5G66815.1__CEP6_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G66815.1__CEP6__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G66815.1__CEP6__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G66815.1__CEP6__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 26 and 27. Probability 0.953712"
+    },
+    "AT3G50610.2__CEP9_": {
+      "Name": "AT3G50610.2__CEP9_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G50610.2__CEP9__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G50610.2__CEP9__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G50610.2__CEP9__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 26 and 27. Probability 0.975919"
+    },
+    "AT1G16950.1__CEP13_": {
+      "Name": "AT1G16950.1__CEP13_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G16950.1__CEP13__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G16950.1__CEP13__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G16950.1__CEP13__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 27 and 28. Probability 0.974765"
+    },
+    "AT1G29290.1__CEP14_": {
+      "Name": "AT1G29290.1__CEP14_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G29290.1__CEP14__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G29290.1__CEP14__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G29290.1__CEP14__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 28 and 29. Probability 0.937635"
+    },
+    "AT2G40530.1__CEP14_": {
+      "Name": "AT2G40530.1__CEP14_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G40530.1__CEP14__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G40530.1__CEP14__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G40530.1__CEP14__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 27 and 28. Probability 0.971358"
+    },
+    "AT1G73165.1__CLE1_": {
+      "Name": "AT1G73165.1__CLE1_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G73165.1__CLE1__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G73165.1__CLE1__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G73165.1__CLE1__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 22 and 23. Probability 0.985150"
+    },
+    "AT4G18510.1__CLE2_": {
+      "Name": "AT4G18510.1__CLE2_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G18510.1__CLE2__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G18510.1__CLE2__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G18510.1__CLE2__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 22 and 23. Probability 0.957690"
+    },
+    "AT1G06225.1__CLE3_": {
+      "Name": "AT1G06225.1__CLE3_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G06225.1__CLE3__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G06225.1__CLE3__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G06225.1__CLE3__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9999
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 24 and 25. Probability 0.969703"
+    },
+    "AT2G31081.1__CLE4_": {
+      "Name": "AT2G31081.1__CLE4_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G31081.1__CLE4__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G31081.1__CLE4__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G31081.1__CLE4__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 22 and 23. Probability 0.980083"
+    },
+    "AT2G31083.2__CLE5_": {
+      "Name": "AT2G31083.2__CLE5_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G31083.2__CLE5__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G31083.2__CLE5__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G31083.2__CLE5__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.349,
+        0.651
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 59 and 60. Probability 0.495862"
+    },
+    "AT2G31085.1__CLE6_": {
+      "Name": "AT2G31085.1__CLE6_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G31085.1__CLE6__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G31085.1__CLE6__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G31085.1__CLE6__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9999
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 26 and 27. Probability 0.980858"
+    },
+    "AT2G31082.1__CLE7_": {
+      "Name": "AT2G31082.1__CLE7_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G31082.1__CLE7__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G31082.1__CLE7__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G31082.1__CLE7__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 22 and 23. Probability 0.980202"
+    },
+    "AT1G67775.1__CLE8_": {
+      "Name": "AT1G67775.1__CLE8_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G67775.1__CLE8__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G67775.1__CLE8__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G67775.1__CLE8__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 24 and 25. Probability 0.977885"
+    },
+    "AT1G26600.2__CLE9_": {
+      "Name": "AT1G26600.2__CLE9_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G26600.2__CLE9__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G26600.2__CLE9__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G26600.2__CLE9__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        0.9972,
+        0.0028
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT4G18510.1__CLE10_": {
+      "Name": "AT4G18510.1__CLE10_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G18510.1__CLE10__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G18510.1__CLE10__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G18510.1__CLE10__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.981240"
+    },
+    "AAT1G49005.1__CLE11_": {
+      "Name": "AAT1G49005.1__CLE11_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AAT1G49005.1__CLE11__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AAT1G49005.1__CLE11__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AAT1G49005.1__CLE11__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0001,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT1G68795.1__CLE12_": {
+      "Name": "AT1G68795.1__CLE12_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G68795.1__CLE12__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G68795.1__CLE12__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G68795.1__CLE12__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0001
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT1G73965.1__CLE13_": {
+      "Name": "AT1G73965.1__CLE13_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G73965.1__CLE13__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G73965.1__CLE13__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G73965.1__CLE13__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT1G63245.1__CLE14_": {
+      "Name": "AT1G63245.1__CLE14_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G63245.1__CLE14__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G63245.1__CLE14__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G63245.1__CLE14__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9999
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 26 and 27. Probability 0.976559"
+    },
+    "AT2G01505.1__CLE16_": {
+      "Name": "AT2G01505.1__CLE16_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G01505.1__CLE16__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G01505.1__CLE16__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G01505.1__CLE16__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT1G70895.1__CLE17_": {
+      "Name": "AT1G70895.1__CLE17_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G70895.1__CLE17__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G70895.1__CLE17__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G70895.1__CLE17__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT1G66145.1__CLE18_": {
+      "Name": "AT1G66145.1__CLE18_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G66145.1__CLE18__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G66145.1__CLE18__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G66145.1__CLE18__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 25 and 26. Probability 0.976625"
+    },
+    "AT3G24225.1__CLE19_": {
+      "Name": "AT3G24225.1__CLE19_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G24225.1__CLE19__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G24225.1__CLE19__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G24225.1__CLE19__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 24 and 25. Probability 0.977810"
+    },
+    "AT1G05065.1__CLE20_": {
+      "Name": "AT1G05065.1__CLE20_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G05065.1__CLE20__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G05065.1__CLE20__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G05065.1__CLE20__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9999
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 29 and 30. Probability 0.970717"
+    },
+    "AT5G64800.1__CLE21_": {
+      "Name": "AT5G64800.1__CLE21_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G64800.1__CLE21__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G64800.1__CLE21__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G64800.1__CLE21__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0012,
+        0.9988
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 36 and 37. Probability 0.912632"
+    },
+    "AT5G12235.1__CLE22_": {
+      "Name": "AT5G12235.1__CLE22_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G12235.1__CLE22__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G12235.1__CLE22__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G12235.1__CLE22__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT3G28455.1__CLE25_": {
+      "Name": "AT3G28455.1__CLE25_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G28455.1__CLE25__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G28455.1__CLE25__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G28455.1__CLE25__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0008,
+        0.9992
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 30 and 31. Probability 0.798968"
+    },
+    "AT1G69970.1__CLE26_": {
+      "Name": "AT1G69970.1__CLE26_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G69970.1__CLE26__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G69970.1__CLE26__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G69970.1__CLE26__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT3G25905.1__CLE27_": {
+      "Name": "AT3G25905.1__CLE27_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G25905.1__CLE27__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G25905.1__CLE27__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G25905.1__CLE27__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT5G12990.1__CLE40_": {
+      "Name": "AT5G12990.1__CLE40_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G12990.1__CLE40__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G12990.1__CLE40__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G12990.1__CLE40__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 27 and 28. Probability 0.962639"
+    },
+    "AT3G24770.1__CLE41_": {
+      "Name": "AT3G24770.1__CLE41_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G24770.1__CLE41__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G24770.1__CLE41__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G24770.1__CLE41__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0001,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT2G34925.1__CLE42_": {
+      "Name": "AT2G34925.1__CLE42_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G34925.1__CLE42__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G34925.1__CLE42__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G34925.1__CLE42__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.1537,
+        0.8464
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 24 and 25. Probability 0.826182"
+    },
+    "AT1G25425.1__CLE43_": {
+      "Name": "AT1G25425.1__CLE43_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G25425.1__CLE43__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G25425.1__CLE43__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G25425.1__CLE43__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0001,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT4G13195.1__CLE44_": {
+      "Name": "AT4G13195.1__CLE44_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G13195.1__CLE44__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G13195.1__CLE44__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G13195.1__CLE44__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        0.6597,
+        0.3403
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT1G69588.1__CLE45_": {
+      "Name": "AT1G69588.1__CLE45_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G69588.1__CLE45__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G69588.1__CLE45__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G69588.1__CLE45__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 28 and 29. Probability 0.969896"
+    },
+    "AT5G59305.1__CLE46_": {
+      "Name": "AT5G59305.1__CLE46_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G59305.1__CLE46__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G59305.1__CLE46__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G59305.1__CLE46__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 26 and 27. Probability 0.736119"
+    },
+    "AT2G27250.3__CLV3_": {
+      "Name": "AT2G27250.3__CLV3_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G27250.3__CLV3__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G27250.3__CLV3__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G27250.3__CLV3__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.285,
+        0.715
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.652701"
+    },
+    "AT1G68765.1__IDA_": {
+      "Name": "AT1G68765.1__IDA_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G68765.1__IDA__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G68765.1__IDA__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G68765.1__IDA__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 26 and 27. Probability 0.977357"
+    },
+    "AT3G25655.1__IDL1_": {
+      "Name": "AT3G25655.1__IDL1_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G25655.1__IDL1__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G25655.1__IDL1__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G25655.1__IDL1__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0001,
+        0.9999
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 27 and 28. Probability 0.967442"
+    },
+    "AT5G64667.1__IDL2_": {
+      "Name": "AT5G64667.1__IDL2_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G64667.1__IDL2__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G64667.1__IDL2__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G64667.1__IDL2__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0771,
+        0.9229
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 36 and 37. Probability 0.956545"
+    },
+    "AT5G09805.1__IDL3_": {
+      "Name": "AT5G09805.1__IDL3_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G09805.1__IDL3__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G09805.1__IDL3__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G09805.1__IDL3__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 32 and 33. Probability 0.966903"
+    },
+    "AT3G18715.1__IDL4_": {
+      "Name": "AT3G18715.1__IDL4_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G18715.1__IDL4__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G18715.1__IDL4__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G18715.1__IDL4__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 36 and 37. Probability 0.977809"
+    },
+    "AT1G76952.1__IDL5_": {
+      "Name": "AT1G76952.1__IDL5_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G76952.1__IDL5__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G76952.1__IDL5__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G76952.1__IDL5__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 27 and 28. Probability 0.975950"
+    },
+    "AT1G13590.1__PSK1_": {
+      "Name": "AT1G13590.1__PSK1_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G13590.1__PSK1__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G13590.1__PSK1__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G13590.1__PSK1__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 24 and 25. Probability 0.941557"
+    },
+    "AT2G22860.1__PSK2_": {
+      "Name": "AT2G22860.1__PSK2_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G22860.1__PSK2__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G22860.1__PSK2__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G22860.1__PSK2__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 22 and 23. Probability 0.984115"
+    },
+    "AT3G44735.1__PSK3_": {
+      "Name": "AT3G44735.1__PSK3_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G44735.1__PSK3__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G44735.1__PSK3__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G44735.1__PSK3__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 20 and 21. Probability 0.983753"
+    },
+    "AT3G49780.1__PSK4_": {
+      "Name": "AT3G49780.1__PSK4_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G49780.1__PSK4__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G49780.1__PSK4__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G49780.1__PSK4__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 21 and 22. Probability 0.983786"
+    },
+    "AT5G65870.1__PSK5_": {
+      "Name": "AT5G65870.1__PSK5_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G65870.1__PSK5__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G65870.1__PSK5__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G65870.1__PSK5__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 24 and 25. Probability 0.697152"
+    },
+    "AT4G37720.1__PSK6_": {
+      "Name": "AT4G37720.1__PSK6_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G37720.1__PSK6__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G37720.1__PSK6__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G37720.1__PSK6__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.980318"
+    },
+    "AT5G58650.1__PSY1_": {
+      "Name": "AT5G58650.1__PSY1_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G58650.1__PSY1__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G58650.1__PSY1__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G58650.1__PSY1__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 22 and 23. Probability 0.981291"
+    },
+    "AT3G47295.1__PSY2_": {
+      "Name": "AT3G47295.1__PSY2_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G47295.1__PSY2__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G47295.1__PSY2__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G47295.1__PSY2__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9999
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 21 and 22. Probability 0.963672"
+    },
+    "AT2G29995.1__PSY3_": {
+      "Name": "AT2G29995.1__PSY3_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G29995.1__PSY3__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G29995.1__PSY3__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G29995.1__PSY3__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 25 and 26. Probability 0.981357"
+    },
+    "AT1G07175.1__PSY4_": {
+      "Name": "AT1G07175.1__PSY4_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G07175.1__PSY4__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G07175.1__PSY4__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G07175.1__PSY4__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.952173"
+    },
+    "AT5G53486.4__PSY5_": {
+      "Name": "AT5G53486.4__PSY5_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G53486.4__PSY5__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G53486.4__PSY5__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G53486.4__PSY5__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.1668,
+        0.8332
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.814659"
+    },
+    "AT1G74458.1__PSY6_": {
+      "Name": "AT1G74458.1__PSY6_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G74458.1__PSY6__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G74458.1__PSY6__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G74458.1__PSY6__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 31 and 32. Probability 0.965289"
+    },
+    "AT3G49305.1__PSY7_": {
+      "Name": "AT3G49305.1__PSY7_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G49305.1__PSY7__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G49305.1__PSY7__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G49305.1__PSY7__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 22 and 23. Probability 0.987683"
+    },
+    "AT3G47510.1__PSY8_": {
+      "Name": "AT3G47510.1__PSY8_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G47510.1__PSY8__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G47510.1__PSY8__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G47510.1__PSY8__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 27 and 28. Probability 0.970382"
+    },
+    "AT3G49300.1__PSY9_": {
+      "Name": "AT3G49300.1__PSY9_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G49300.1__PSY9__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G49300.1__PSY9__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G49300.1__PSY9__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9999
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.953610"
+    },
+    "AT5G60810.1__RGF1_": {
+      "Name": "AT5G60810.1__RGF1_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G60810.1__RGF1__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G60810.1__RGF1__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G60810.1__RGF1__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 20 and 21. Probability 0.983552"
+    },
+    "AT1G13620.1__RGF2_": {
+      "Name": "AT1G13620.1__RGF2_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G13620.1__RGF2__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G13620.1__RGF2__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT1G13620.1__RGF2__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 24 and 25. Probability 0.773967"
+    },
+    "AT2G04025.1__RGF3_": {
+      "Name": "AT2G04025.1__RGF3_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G04025.1__RGF3__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G04025.1__RGF3__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G04025.1__RGF3__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.1772,
+        0.8229
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 23 and 24. Probability 0.816359"
+    },
+    "AT3G30350.1__RGF4_": {
+      "Name": "AT3G30350.1__RGF4_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G30350.1__RGF4__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G30350.1__RGF4__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G30350.1__RGF4__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 19 and 20. Probability 0.736509"
+    },
+    "AT5G51451.1__RGF5_": {
+      "Name": "AT5G51451.1__RGF5_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G51451.1__RGF5__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G51451.1__RGF5__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G51451.1__RGF5__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 22 and 23. Probability 0.979127"
+    },
+    "AT4G16515.2__RGF6_": {
+      "Name": "AT4G16515.2__RGF6_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G16515.2__RGF6__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G16515.2__RGF6__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G16515.2__RGF6__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT3G02240.1__RGF7_": {
+      "Name": "AT3G02240.1__RGF7_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G02240.1__RGF7__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G02240.1__RGF7__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G02240.1__RGF7__plot.txt",
+      "Prediction": "Other",
+      "Likelihood": [
+        1.0,
+        0.0
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": ""
+    },
+    "AT2G03830.1__RGF8_": {
+      "Name": "AT2G03830.1__RGF8_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G03830.1__RGF8__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G03830.1__RGF8__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G03830.1__RGF8__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 24 and 25. Probability 0.983155"
+    },
+    "AT5G64770.1__RGF9_": {
+      "Name": "AT5G64770.1__RGF9_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G64770.1__RGF9__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G64770.1__RGF9__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT5G64770.1__RGF9__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 26 and 27. Probability 0.978260"
+    },
+    "AT3G60650.1__RGF10_": {
+      "Name": "AT3G60650.1__RGF10_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G60650.1__RGF10__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G60650.1__RGF10__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT3G60650.1__RGF10__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0002,
+        0.9998
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 27 and 28. Probability 0.966334"
+    },
+    "AT2G16385.1__CIF1_": {
+      "Name": "AT2G16385.1__CIF1_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G16385.1__CIF1__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G16385.1__CIF1__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT2G16385.1__CIF1__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0778,
+        0.9222
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 28 and 29. Probability 0.884855"
+    },
+    "AT4G34600.1__CIF2_": {
+      "Name": "AT4G34600.1__CIF2_",
+      "Plot_eps": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G34600.1__CIF2__plot.eps",
+      "Plot_png": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G34600.1__CIF2__plot.png",
+      "Plot_txt": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/output_AT4G34600.1__CIF2__plot.txt",
+      "Prediction": "Signal Peptide (Sec/SPI)",
+      "Likelihood": [
+        0.0011,
+        0.999
+      ],
+      "Protein_types": [
+        "Other",
+        "Signal Peptide (Sec/SPI)"
+      ],
+      "CS_pos": "Cleavage site between pos. 24 and 25. Probability 0.952430"
+    }
+  },
+  "FORMAT": "long",
+  "ORG": "Eukarya",
+  "MODE": "slow-sequential",
+  "REGION_GFF_FILE": "/services/SignalP-6.0/tmp/63F2D994000009FC19009EDE/region_output.gff3"
+}
